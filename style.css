@@ -6,16 +6,17 @@ body {
 
 h1 {
   color: #45C4B0;
-  margin-bot: 20px;
+  
 }
 
 h2 {
   color: #DAFDBA;
-  margin-bot: 20px;
+  
 }
 
 p {
   color: white;
+  margin-top: 20px;
 }
 
 #container {
@@ -53,5 +54,5 @@ p {
   border: none;
   background-color: #9AEBA3;
   margin-top: 20px;
-  color: white;
+  
 }
